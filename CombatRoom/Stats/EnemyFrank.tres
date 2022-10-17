@@ -1,0 +1,14 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Stats/StartingStats.gd" type="Script" id=1]
+
+
+[resource]
+script = ExtResource( 1 )
+type = "Frank"
+maxHealth = 0
+damage = 0
+speed = 0
+fireRate = 0
+fireSpeed = 0
+maxRange = 0
